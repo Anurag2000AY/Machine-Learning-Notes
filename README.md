@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Complete Machine Learning and Data Science: Zero to Mastery (2020)](#complete-machine-learning-and-data-science-zero-to-mastery-2020)
+- [Complete Machine Learning and Data Science]
   - [Table of Contents](#table-of-contents)
   - [**Section 2: Machine Learning 101**](#section-2-machine-learning-101)
     <details>
