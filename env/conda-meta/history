@@ -121,3 +121,10 @@
 +defaults/win-64::zlib-1.2.12-h8cc25b3_2
 +defaults/win-64::zstd-1.5.2-h19a0ad4_0
 # update specs: ['pandas', 'numpy', 'matplotlib', 'seaborn', 'jupyter', 'notebook']
+==> 2022-06-28 19:02:47 <==
+# cmd: C:\Users\ay569\miniconda3\Scripts\conda-script.py install scikit-learn
+# conda version: 4.12.0
++defaults/noarch::joblib-1.1.0-pyhd3eb1b0_0
++defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++defaults/win-64::scikit-learn-1.0.2-py310h4ed8f06_0
+# update specs: ['scikit-learn']
