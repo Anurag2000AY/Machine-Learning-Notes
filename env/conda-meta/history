@@ -125,3 +125,10 @@
 +defaults/win-64::widgetsnbextension-3.5.2-py39haa95532_0
 +defaults/win-64::winpty-0.4.3-4
 # update specs: ['jupyter', 'notebook']
+==> 2022-06-27 18:35:16 <==
+# cmd: C:\Users\ay569\miniconda3\Scripts\conda-script.py install --yes --prefix C:\Users\ay569\Downloads\ML_Data_Analysis\env seaborn
+# conda version: 4.13.0
+-defaults/win-64::certifi-2022.5.18.1-py39haa95532_0
++defaults/noarch::seaborn-0.11.2-pyhd3eb1b0_0
++defaults/win-64::certifi-2022.6.15-py39haa95532_0
+# update specs: ['seaborn']
