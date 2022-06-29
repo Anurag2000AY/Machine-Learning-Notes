@@ -128,3 +128,9 @@
 +defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
 +defaults/win-64::scikit-learn-1.0.2-py310h4ed8f06_0
 # update specs: ['scikit-learn']
+==> 2022-06-29 14:19:17 <==
+# cmd: C:\Users\ay569\miniconda3\Scripts\conda-script.py install --yes --prefix C:\Users\ay569\Downloads\ML_Data_Analysis\env seaborn
+# conda version: 4.12.0
+-defaults/win-64::openssl-1.1.1o-h2bbff1b_0
++defaults/win-64::openssl-1.1.1p-h2bbff1b_0
+# update specs: ['seaborn']
